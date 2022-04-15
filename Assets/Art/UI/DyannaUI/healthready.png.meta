@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 7ad7a659075f6ae44acf5a192c2d2a10
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HealthFrame
+    21300002: MagicFrame
+    21300004: HealthBar
+    21300006: MagicBar
+    21300008: HealthBarBackground
+    21300010: HealthBackground
+    21300012: MagicBackGround
+    21300014: Lightning
+    21300016: Ice
+    21300018: Fire
+    21300020: healthready_10
+    21300022: Plasma
+    21300024: SpellDisplay
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HealthFrame
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1587
+        width: 438
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa88e22512c79ac44a72a7934cb708f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicFrame
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1600
+        width: 364
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe5b86ced920d6419f2e0b443f861d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1548
+        width: 421
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfde393f2837d7441a546c49a87a3686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicBar
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1551
+        width: 345
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c69f67ca589814d900ea4a77ed63fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBarBackground
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1261
+        width: 675
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -218.5, y: -106.5}
+        - {x: -123.5, y: -4.5}
+        - {x: -122.5, y: 4.5}
+        - {x: -219.5, y: 107.5}
+        - {x: -233.5, y: 177.5}
+        - {x: 36.5, y: 132.5}
+        - {x: 455.5, y: 119.5}
+        - {x: 455.5, y: -177.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7485874a96fe7f4388311ac4ee1b91a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBackground
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1508
+        width: 421
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72627895dcc49184ba70c4a36ffe6f17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicBackGround
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1508
+        width: 346
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff469b044da3834f97a003cbe166ab1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lightning
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 814
+        width: 209
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d3fcc2c35000f448a6fd2537808fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 819
+        width: 210
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d978696cf44b0974990f42f9a13e8139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 819
+        width: 204
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba684d5384a0f514fb776735db9c8298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healthready_10
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 819
+        width: 204
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9a011b9e49d094780eaecf36000ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 819
+        width: 204
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4bc80b374862f499ff872a09d7ee6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpellDisplay
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1179
+        width: 335
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 101.5}
+        - {x: 85, y: 93.5}
+        - {x: 85, y: 89.5}
+        - {x: 88, y: 90.5}
+        - {x: 166, y: 8.5}
+        - {x: 166, y: 6.5}
+        - {x: 168, y: 5.5}
+        - {x: 168, y: -4.5}
+        - {x: 167, y: -5.5}
+        - {x: 90, y: -88.5}
+        - {x: 85, y: -88.5}
+        - {x: 85, y: -93.5}
+        - {x: 78, y: -101.5}
+        - {x: 80, y: -116.5}
+        - {x: 0, y: -186.5}
+        - {x: -170, y: 1.5}
+        - {x: -5, y: 176.5}
+        - {x: 2, y: 178.5}
+        - {x: 20, y: 177.5}
+        - {x: 55, y: 130.5}
+        - {x: 69, y: 111.5}
+        - {x: 71, y: 107.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdecee7178d8d8498a07bc434ddf9e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -574, y: 482}
+      - {x: -574, y: 603}
+      - {x: -324, y: 603}
+      - {x: -324, y: 482}
+    physicsShape: []
+    bones: []
+    spriteID: ac47611fbffa0554baf6725b7fcd363e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

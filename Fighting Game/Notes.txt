@@ -1,0 +1,20 @@
+FrameData
+Whiffing
+Light,Medium,Heavy
+high,mid,low,overhead, 
+block press back(stand, and crouch)
+EX meter
+Button Combo Input Manager   
+anti-air
+lit background music
+simple health system(pocket rumble)     
+flip out(no hit)
+universality
+knockdown value
+block stun
+
+States: Idle, walking, running, jumping, crouching, hit, guard, knockback          
+crossups
+fuzzy guard 
+Input Window(window of frames to input) QUEUE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

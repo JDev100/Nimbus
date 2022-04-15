@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: 4cad8431f6ccad94aa11e7d6691e3ff0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Colored-Nimbus-Animation-copy-2_0017_Run_0
+    21300002: Colored-Nimbus-Animation-copy-2_0017_Run_1
+    21300004: Colored-Nimbus-Animation-copy-2_0017_Run_2
+    21300006: Colored-Nimbus-Animation-copy-2_0017_Run_3
+    21300008: Colored-Nimbus-Animation-copy-2_0017_Run_4
+    21300010: Colored-Nimbus-Animation-copy-2_0017_Run_5
+    21300012: Colored-Nimbus-Animation-copy-2_0017_Run_6
+    21300014: Colored-Nimbus-Animation-copy-2_0017_Run_7
+    21300016: Colored-Nimbus-Animation-copy-2_0017_Run_8
+    21300018: Colored-Nimbus-Animation-copy-2_0017_Run_9
+    21300020: Colored-Nimbus-Animation-copy-2_0017_Run_10
+    21300022: Colored-Nimbus-Animation-copy-2_0017_Run_11
+    21300024: Colored-Nimbus-Animation-copy-2_0017_Run_12
+    21300026: Colored-Nimbus-Animation-copy-2_0017_Run_13
+    21300028: Colored-Nimbus-Animation-copy-2_0017_Run_14
+    21300030: Colored-Nimbus-Animation-copy-2_0017_Run_15
+    21300032: Colored-Nimbus-Animation-copy-2_0017_Run_16
+    21300034: Colored-Nimbus-Animation-copy-2_0017_Run_17
+    21300036: Colored-Nimbus-Animation-copy-2_0017_Run_18
+    21300038: Colored-Nimbus-Animation-copy-2_0017_Run_19
+    21300040: Colored-Nimbus-Animation-copy-2_0017_Run_20
+    21300042: Colored-Nimbus-Animation-copy-2_0017_Run_21
+    21300044: Colored-Nimbus-Animation-copy-2_0017_Run_22
+    21300046: Colored-Nimbus-Animation-copy-2_0017_Run_23
+    21300048: Colored-Nimbus-Animation-copy-2_0017_Run_24
+    21300050: Colored-Nimbus-Animation-copy-2_0017_Run_25
+    21300052: Colored-Nimbus-Animation-copy-2_0017_Run_26
+    21300054: Colored-Nimbus-Animation-copy-2_0017_Run_27
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_0
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 0
+        width: 723
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d72496b2151e264a986ccbc02811c1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_1
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 0
+        width: 523
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8247e5609e3bad4d97efbb3c96fdc0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_2
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 0
+        width: 410
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb3ca2fe20d838448ebd6ac02783313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_3
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 645
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98435bc784ee1d448c67cef3898c2be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_4
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 0
+        width: 518
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f7d1d90399e1e438600dd406fa5a15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_5
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 655
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321427a6b2e2f48468c9cfcd06d6a47c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_6
+      rect:
+        serializedVersion: 2
+        x: 5327
+        y: 0
+        width: 764
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7830ef40e241f48a59a9690f60d114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_7
+      rect:
+        serializedVersion: 2
+        x: 6639
+        y: 0
+        width: 569
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7633b1b8cb3294f8416f4165795134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_8
+      rect:
+        serializedVersion: 2
+        x: 7937
+        y: 0
+        width: 399
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b89048699681e94580fd8cae6fe5bb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_9
+      rect:
+        serializedVersion: 2
+        x: 8393
+        y: 645
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935254396adb54468d32e6c6adce541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_10
+      rect:
+        serializedVersion: 2
+        x: 8834
+        y: 0
+        width: 492
+        height: 1500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f768517abd2d56448e6b97883e53dbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_11
+      rect:
+        serializedVersion: 2
+        x: 9352
+        y: 655
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da02db844071ea4eabb049b1c1bd08d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_12
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 625
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0281fc5a54385b14caca6e475c53acc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_13
+      rect:
+        serializedVersion: 2
+        x: 7214
+        y: 625
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47a32411bdc9c644b787f9d0ea928d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_14
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 343
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c6d104e7a36524ca2249048073e378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_15
+      rect:
+        serializedVersion: 2
+        x: 6619
+        y: 338
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5fe656caea2814c93931ab4b3d82fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_16
+      rect:
+        serializedVersion: 2
+        x: 7895
+        y: 343
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b857688050d370408d9d9c44f49e600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_17
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 328
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ddc384d5616cf4bbabff71c38e6818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_18
+      rect:
+        serializedVersion: 2
+        x: 8757
+        y: 328
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1227bb2c731ad3c47b78a7b2db509f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_19
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 312
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9ebe479a238b54b974818f45ae0b08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_20
+      rect:
+        serializedVersion: 2
+        x: 7798
+        y: 312
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd70395047072a4db14da1159a3a38f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_21
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 297
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9e587f6a64ce84eafcfe1687788ac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_22
+      rect:
+        serializedVersion: 2
+        x: 6619
+        y: 297
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08b6fee89b51a84599f360dd1b0aade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_23
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 241
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a4af18295247d438756199809c1d01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_24
+      rect:
+        serializedVersion: 2
+        x: 8331
+        y: 241
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f3ba26b225f9944b8e98a9663d95ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_25
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 210
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb881aa4534fb34cbb21bca22075234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_26
+      rect:
+        serializedVersion: 2
+        x: 8331
+        y: 210
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a90bc68e8abc1248b4bc03166ab6dbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored-Nimbus-Animation-copy-2_0017_Run_27
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 56
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113732c78967a7e48977106f74baf7ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c224aad00d1b6e74faab9bb3e633188a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

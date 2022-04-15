@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: f456137d609cd2447aa158102ee716db
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Back&Forth_MovingRight Sprite_0
+    21300002: Back&Forth_MovingRight Sprite_1
+    21300004: Back&Forth_MovingRight Sprite_2
+    21300006: Back&Forth_MovingRight Sprite_3
+    21300008: Back&Forth_MovingRight Sprite_4
+    21300010: Back&Forth_MovingRight Sprite_5
+    21300012: Back&Forth_MovingRight Sprite_6
+    21300014: Back&Forth_MovingRight Sprite_7
+    21300016: Back&Forth_MovingRight Sprite_8
+    21300018: Back&Forth_MovingRight Sprite_9
+    21300020: Back&Forth_MovingRight Sprite_10
+    21300022: Back&Forth_MovingRight Sprite_11
+    21300024: Back&Forth_MovingRight Sprite_12
+    21300026: Back&Forth_MovingRight Sprite_13
+    21300028: Back&Forth_MovingRight Sprite_14
+    21300030: Back&Forth_MovingRight Sprite_15
+    21300032: Back&Forth_MovingRight Sprite_16
+    21300034: Back&Forth_MovingRight Sprite_17
+    21300036: Back&Forth_MovingRight Sprite_18
+    21300038: Back&Forth_MovingRight Sprite_19
+    21300040: Back&Forth_MovingRight Sprite_20
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2998
+        width: 884
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef8d189298d844aa4fdeccfac63950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 2998
+        width: 885
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6173ff1e5fa08b48ad6abc41c643f7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2998
+        width: 894
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db93a9cebb27c438674af7fa9e8085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 2998
+        width: 893
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64928717f28cb604893bb5620d317cd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 2998
+        width: 876
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4cc4caa4aef7d4491ab719c0fed2c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 5001
+        y: 2998
+        width: 703
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321494e377619e24eac00a746a8ab385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2280
+        width: 703
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa9843435bb3a64abfb7c2e910fb67d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2283
+        width: 621
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c306069f112448a5fbfd094bec974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 2280
+        width: 621
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fdd2add8fe1f643ab322c818ac98d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 2247
+        width: 797
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361d61ca66096dd409b8bb85057261c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 2280
+        width: 882
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea06576ea42f08c47b177239adb9ac41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 4922
+        y: 2280
+        width: 885
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f2eb34ac782324b9ff9dd7fec12369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1483
+        width: 815
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eef43a57741c74caab7c7c726d986c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1488
+        width: 858
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5c8eb7dd45ee24691d3966222aac7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1488
+        width: 853
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764d3b9ad0e812b4280b832ebd388a10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 1500
+        width: 703
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f70dbe6788b0643a23e13f12864e2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 4307
+        y: 1500
+        width: 703
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fbc3cc40982f44d8219a3e7ba7569c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 683
+        width: 621
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63edabbd1cf1a6a4d9c9585fbe69aaa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 683
+        width: 621
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51203331e9c4d54dbf3082ad6752855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 680
+        width: 797
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f951ebec372e9df4295148f1fe488e12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back&Forth_MovingRight Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 680
+        width: 796
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce2c92c2b02b684184fe7908058fae3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 15e85a88ccf5a974e8ab2d6d27f1fe74
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
